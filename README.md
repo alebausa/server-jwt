@@ -1,0 +1,3 @@
+# Readme
+
+check .env.sample
