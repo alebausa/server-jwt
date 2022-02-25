@@ -1,10 +1,10 @@
 {
-  "name": "project-management-server-server",
+  "name": "server-jwt",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
+    "start:dev": "nodemon server.js",
     "eslint": "eslint --init"
   },
   "dependencies": {
